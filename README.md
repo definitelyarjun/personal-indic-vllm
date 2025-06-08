@@ -1,5 +1,4 @@
 # Personal-Indic-VLLM
-## The readme file for this project is generated because i hate documenting stuffffs :D
 
 A voice-based conversational AI application that works with Indian languages, specifically Malayalam. The application uses the SarvamAI API to handle speech-to-text, language processing, and text-to-speech conversions.
 
@@ -64,4 +63,4 @@ python main.py
 
 ## Contributions
 
-Currently not accepting contributions
+Currently not accepting contributions.
