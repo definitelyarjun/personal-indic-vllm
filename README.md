@@ -50,9 +50,8 @@ python main.py
 5. Speak in Malayalam
 6. The application will:
    - Convert your speech to text
-   - Process it through an LLM
+   - LLM generates a response to the input text
    - Convert the response back to speech
-   - Play the audio response
 
 ## Technical Details
 
